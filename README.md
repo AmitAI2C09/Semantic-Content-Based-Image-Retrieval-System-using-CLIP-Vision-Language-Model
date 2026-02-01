@@ -20,6 +20,20 @@ Unlike traditional CBIR systems that rely on color, texture, and shape features,
 
 ---
 
+## 📸 Demo Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Search Results
+![Search Results](screenshots/home1.png)
+
+### terminal 1
+![Search Results](screenshots/terminal.png)
+
+### terminal 2
+![Search Results](screenshots/terminal2.png)
+
 ## 🧠 Technology Stack
 
 | Component               | Technology        |
