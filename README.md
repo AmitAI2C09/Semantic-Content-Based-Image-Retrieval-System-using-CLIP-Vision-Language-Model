@@ -23,7 +23,7 @@ Unlike traditional CBIR systems that rely on color, texture, and shape features,
 ## 📸 Demo Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)![Search Results](screenshots/home1.png)
+![Search Results](screenshots/home1.png)
 
 ### Search Results
 ![Home Page](screenshots/home.png)
